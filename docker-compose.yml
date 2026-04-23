@@ -1,0 +1,12 @@
+services:
+  notebook:
+    build: .
+    container_name: data-engineering-medallion
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+      - /app/.venv
+    env_file:
+      - .env
+    restart: unless-stopped
