@@ -127,9 +127,10 @@ After this workshop, move on to:
 
 ## Learn more
 
-- Course page: [learnwithparam.com/courses/data-engineering-medallion](https://www.learnwithparam.com/courses/data-engineering-medallion)
+- Start the course: [learnwithparam.com/courses/data-engineering-medallion](https://www.learnwithparam.com/courses/data-engineering-medallion)
 - Data Engineering Bootcamp: [learnwithparam.com/data-engineering-bootcamp](https://www.learnwithparam.com/data-engineering-bootcamp)
 - All courses: [learnwithparam.com/courses](https://www.learnwithparam.com/courses)
+
 
 ## License
 
