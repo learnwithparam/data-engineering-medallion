@@ -1,4 +1,4 @@
-# Data Engineering Medallion
+# Data engineering foundations with the medallion pattern
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)](https://duckdb.org/)
@@ -6,9 +6,12 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![learnwithparam](https://img.shields.io/badge/learnwithparam.com-0a0a0a?logo=readthedocs&logoColor=white)](https://www.learnwithparam.com)
 
-Beginner-friendly data engineering workshop: take a public dataset from **raw → cleaned → star schema → quality checks → BI-ready marts → charts** in a single notebook.
+Beginner-friendly data engineering workshop: take a public dataset from **raw -> cleaned -> star schema -> quality checks -> BI-ready marts -> charts** in a single notebook.
 
-This is the starting point for the [learnwithparam.com](https://www.learnwithparam.com) data engineering track. No distributed system, no orchestration — just DuckDB, Pandas, and the medallion pattern the right way.
+This is the starting point for the [learnwithparam.com](https://www.learnwithparam.com) data engineering track. No distributed system, no orchestration, just DuckDB, pandas, and the warehouse pattern every serious data platform eventually depends on.
+
+Start the free course: [learnwithparam.com/courses/data-engineering-medallion](https://www.learnwithparam.com/courses/data-engineering-medallion)
+Continue into the full program: [learnwithparam.com/data-engineering-bootcamp](https://www.learnwithparam.com/data-engineering-bootcamp)
 
 ## What you'll build
 
@@ -124,8 +127,9 @@ After this workshop, move on to:
 
 ## Learn more
 
-- Full course: [learnwithparam.com](https://www.learnwithparam.com)
-- Blog: [learnwithparam.com/blog](https://www.learnwithparam.com/blog)
+- Course page: [learnwithparam.com/courses/data-engineering-medallion](https://www.learnwithparam.com/courses/data-engineering-medallion)
+- Data Engineering Bootcamp: [learnwithparam.com/data-engineering-bootcamp](https://www.learnwithparam.com/data-engineering-bootcamp)
+- All courses: [learnwithparam.com/courses](https://www.learnwithparam.com/courses)
 
 ## License
 
